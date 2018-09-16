@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckStringIsSymmetry", "CheckStringIsSymmetry\CheckStringIsSymmetry.csproj", "{510EC5E7-52FE-49DE-854A-DEB2A3D5E1C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckStringSymmetry.New", "CheckStringSymmetry.New\CheckStringSymmetry.New.csproj", "{882FD9AC-201A-4DEE-90BB-CD53B56D6F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{510EC5E7-52FE-49DE-854A-DEB2A3D5E1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510EC5E7-52FE-49DE-854A-DEB2A3D5E1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510EC5E7-52FE-49DE-854A-DEB2A3D5E1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510EC5E7-52FE-49DE-854A-DEB2A3D5E1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882FD9AC-201A-4DEE-90BB-CD53B56D6F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882FD9AC-201A-4DEE-90BB-CD53B56D6F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882FD9AC-201A-4DEE-90BB-CD53B56D6F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882FD9AC-201A-4DEE-90BB-CD53B56D6F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5333C97A-BE94-4457-BF0F-ADD0E953F105}
+	EndGlobalSection
+EndGlobal
